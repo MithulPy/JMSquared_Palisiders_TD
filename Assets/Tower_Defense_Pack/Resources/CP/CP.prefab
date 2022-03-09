@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 414034}
   - component: {fileID: 21223966}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 21203760}
   - component: {fileID: 11452176}
   - component: {fileID: 5874550}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: CP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -206,7 +206,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 421542}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: opened
   m_TagString: Untagged
   m_Icon: {fileID: 0}

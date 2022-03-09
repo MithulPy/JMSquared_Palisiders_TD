@@ -209,7 +209,7 @@ public class Master_Instance : MonoBehaviour {
 		if (Application.platform == RuntimePlatform.Android){
             SceneManager.LoadScene("Phone_Example_Scene");
 		}else{
-            SceneManager.LoadScene("Example_Scene");
+            SceneManager.LoadScene("level1");
 		}
 	}
     /// <summary>
@@ -219,7 +219,7 @@ public class Master_Instance : MonoBehaviour {
 		if (Application.platform == RuntimePlatform.Android){
             SceneManager.LoadScene("Phone_Example_Scene2");
 		}else{
-            SceneManager.LoadScene("Example_Scene2");
+            SceneManager.LoadScene("level1");
 		}
 	}
     /// <summary>
@@ -229,7 +229,7 @@ public class Master_Instance : MonoBehaviour {
 		if (Application.platform == RuntimePlatform.Android){
             SceneManager.LoadScene("Phone_Example_Scene3");
 		}else{
-            SceneManager.LoadScene("Example_Scene3");
+            SceneManager.LoadScene("MainMenu");
 		}
 	}
 }

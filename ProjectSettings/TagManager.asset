@@ -42,9 +42,18 @@ TagManager:
   - name: Map
     uniqueID: 2245953001
     locked: 0
+  - name: further ahead
+    uniqueID: 1704278473
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: castle
     uniqueID: 2533951141
+    locked: 0
+  - name: front of castle
+    uniqueID: 2943580139
+    locked: 0
+  - name: Crossfade
+    uniqueID: 1153804545
     locked: 0

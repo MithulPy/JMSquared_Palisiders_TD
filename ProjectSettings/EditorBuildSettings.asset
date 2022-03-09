@@ -9,8 +9,14 @@ EditorBuildSettings:
     path: Assets/Tower_Defense_Pack/Scenes/SelectPlataform.unity
     guid: 3e1d95c85a0ce9e4289b4ae7ad641f56
   - enabled: 1
+    path: Assets/Tower_Defense_Pack/Scenes/Intro.unity
+    guid: 0075ab0e1a0401948958c32c83f8884e
+  - enabled: 1
     path: Assets/Tower_Defense_Pack/Scenes/MainMenu.unity
     guid: 0a82636f32ebc3747a3c0c84a0c746e1
+  - enabled: 1
+    path: Assets/Tower_Defense_Pack/Scenes/level1.unity
+    guid: 772a5b1d271fe144e865056d68ed5436
   - enabled: 0
     path: Assets/Tower_Defense_Pack/Scenes/MainMenuPhone.unity
     guid: fdca2fd3040ac724b9e944e0faf168d4
@@ -23,13 +29,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Tower_Defense_Pack/Scenes/Phone_Example_Scene3.unity
     guid: 9cba00bc986a7bc41a6a66624d583c93
-  - enabled: 1
+  - enabled: 0
     path: Assets/Tower_Defense_Pack/Scenes/Example_Scene.unity
     guid: eec920ca300e59a4ab12ea34bbe52abd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Tower_Defense_Pack/Scenes/Example_Scene2.unity
     guid: 75501039f86279d4d966e7a2833f9777
-  - enabled: 1
+  - enabled: 0
     path: Assets/Tower_Defense_Pack/Scenes/Example_Scene3.unity
     guid: 6b2efe645f258bf4dbf9628998275f30
   m_configObjects: {}

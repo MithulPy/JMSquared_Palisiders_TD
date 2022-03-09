@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// Mithul Grad
+//TEST232423423
 /// <summary>
 /// it will be used in a new feature
-/// </summary>
+/// </summary>S
 
 public class Hero_Controller : MonoBehaviour {
     public int life = 100;
@@ -28,3 +29,4 @@ public class Hero_Controller : MonoBehaviour {
         }
     }
 }
+//jordan monforton
