@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using FThLib;
@@ -60,7 +60,7 @@ public class MT_Bullet : MonoBehaviour {
 					if(sw==true){	
 						if (fire==true&&on==false){;
 							on=true;
-							StartCoroutine(CreateFire_());
+							
 						}
 						transform.position = Vector3.MoveTowards(transform.position, target.transform.position, Time.deltaTime*2);
 					}
@@ -132,22 +132,6 @@ public class MT_Bullet : MonoBehaviour {
 				}
 			}
 		}
-	}
-    /// <summary>
-    /// Create fire from the firelist, it is used on Android 
-    /// </summary>
-    /// <returns></returns>
-	IEnumerator CreateFire_(){
-		yield return new WaitForSeconds(0);
-			for(int i = 0;i<firelist.Count;i++){
-				if(!firelist[i].activeInHierarchy){
-					firelist[i].transform.localScale= new Vector3(0.04f,0.04f,0.04f);
-					firelist[i].transform.position = this.transform.position;
-					firelist[i].SetActive(true);
-					break;
-				}
-			}
-		on=false;
 	}
 
 	void onDestroy(){

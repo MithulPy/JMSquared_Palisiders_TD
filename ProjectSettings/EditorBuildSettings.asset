@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Tower_Defense_Pack/Scenes/SelectPlataform.unity
-    guid: 3e1d95c85a0ce9e4289b4ae7ad641f56
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Tower_Defense_Pack/Scenes/Intro.unity
     guid: 0075ab0e1a0401948958c32c83f8884e
@@ -17,25 +17,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tower_Defense_Pack/Scenes/level1.unity
     guid: 772a5b1d271fe144e865056d68ed5436
+  - enabled: 1
+    path: Assets/Tower_Defense_Pack/Scenes/Credits.unity
+    guid: a5607f14d8204ab43b91621761ae7b48
+  - enabled: 1
+    path: Assets/Tower_Defense_Pack/Scenes/HowToPlay.unity
+    guid: 8226b8b518686a646a7f7ca33c521992
+  - enabled: 1
+    path: Assets/Tower_Defense_Pack/Scenes/Quit.unity
+    guid: 7a7555dbb9cf0c34fbc4b7b850889bc7
+  - enabled: 1
+    path: Assets/Tower_Defense_Pack/Scenes/Settings.unity
+    guid: 0f6bd7b9b46575f4d998499199c13982
   - enabled: 0
-    path: Assets/Tower_Defense_Pack/Scenes/MainMenuPhone.unity
-    guid: fdca2fd3040ac724b9e944e0faf168d4
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Tower_Defense_Pack/Scenes/Phone_Example_Scene.unity
-    guid: d8d80fa68d7f82b4b94d0225c04e22a1
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Tower_Defense_Pack/Scenes/Phone_Example_Scene2.unity
-    guid: ce1808c72ef366a4ab7ce2788298e569
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Tower_Defense_Pack/Scenes/Phone_Example_Scene3.unity
-    guid: 9cba00bc986a7bc41a6a66624d583c93
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Tower_Defense_Pack/Scenes/Example_Scene.unity
-    guid: eec920ca300e59a4ab12ea34bbe52abd
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Tower_Defense_Pack/Scenes/Example_Scene2.unity
-    guid: 75501039f86279d4d966e7a2833f9777
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Tower_Defense_Pack/Scenes/Example_Scene3.unity
-    guid: 6b2efe645f258bf4dbf9628998275f30
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
