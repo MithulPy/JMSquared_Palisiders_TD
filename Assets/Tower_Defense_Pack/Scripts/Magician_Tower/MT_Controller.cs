@@ -30,7 +30,10 @@ public class MT_Controller : MonoBehaviour {
     private AudioSource audio;
     private AudioClip[] magic;
     //Show hand
-    
+    void OnMouseOver(){ 
+		if(!GameObject.Find("hand")){master.showHand (true);}
+		mouseover=true;
+	}
 	//Hide hand
 	void OnMouseExit(){
 		if(GameObject.Find("hand")){master.showHand (false);}

@@ -71,7 +71,7 @@ MonoBehaviour:
   trap: {fileID: 8300000, guid: cfbf827e73e62d3409cbab893d08aa42, type: 3}
   PlaceTrap: {fileID: 8300000, guid: d9ecc0f1edb84d944a4256331bbed300, type: 3}
   Runes: {fileID: 8300000, guid: 8fa64571068d10241ab1706e620768ee, type: 3}
-  effects_volume: 0.2
+  effects_volume: 22.97
 --- !u!82 &82053479546213370
 AudioSource:
   m_ObjectHideFlags: 0
@@ -82,19 +82,19 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f95600e571d7ae84c8726ce37f7282ed, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e6051ed81d4a53f469fd361659496113, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.019
-  m_Pitch: 1
+  m_Volume: 0.0001
+  m_Pitch: 3
   Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 0
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
-  Pan2D: 0
+  Pan2D: 1
   rolloffMode: 0
   BypassEffects: 0
   BypassListenerEffects: 0
@@ -128,7 +128,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -143,7 +143,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -158,7 +158,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 1
+      value: 1.1
       inSlope: 0
       outSlope: 0
       tangentMode: 0

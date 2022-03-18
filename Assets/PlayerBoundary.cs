@@ -3,23 +3,34 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerBoundary : MonoBehaviour {
-    public Camera MainCamera;
-    private Vector2 screenBounds;
-    private float objectWidth;
-    private float objectHeight;
-
-    // Use this for initialization
-    void Start () {
-        screenBounds = MainCamera.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height, MainCamera.transform.position.z));
-        objectWidth = transform.GetComponent<SpriteRenderer>().bounds.extents.x; //extents = size of width / 2
-        objectHeight = transform.GetComponent<SpriteRenderer>().bounds.extents.y; //extents = size of height / 2
-    }
-
-    // Update is called once per frame
-    void LateUpdate(){
-        Vector3 viewPos = transform.position;
-        viewPos.x = Mathf.Clamp(viewPos.x, screenBounds.x * -1 + objectWidth, screenBounds.x - objectWidth);
-        viewPos.y = Mathf.Clamp(viewPos.y, screenBounds.y * -1 + objectHeight, screenBounds.y - objectHeight);
-        transform.position = viewPos;
-    }
-}
+ private float minX, maxX, minY, maxY;
+ 
+     void Start(){
+         // If you want the min max values to update if the resolution changes 
+         // set them in update else set them in Start
+         float camDistance = Vector3.Distance(transform.position, Camera.main.transform.position);
+         Vector2 bottomCorner = Camera.main.ViewportToWorldPoint(new Vector3(0,0, camDistance));
+         Vector2 topCorner = Camera.main.ViewportToWorldPoint(new Vector3(1,1, camDistance));
+         
+         minX = bottomCorner.x;
+         maxX = topCorner.x;
+         minY = bottomCorner.y;
+         maxY = topCorner.y;
+     }
+ 
+     void Update(){
+ 
+         // Get current position
+         Vector3 pos = transform.position;
+ 
+         // Horizontal contraint
+         if(pos.x < minX) pos.x = minX;
+         if(pos.x > maxX) pos.x = maxX;
+ 
+         // vertical contraint
+         if(pos.y < minY) pos.y = minY;
+         if(pos.y > maxY) pos.y = maxY;
+ 
+         // Update position
+         transform.position = pos;
+     }}

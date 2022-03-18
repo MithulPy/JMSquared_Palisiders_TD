@@ -28,7 +28,7 @@ public class Go_MiniGame : MonoBehaviour {
 
 	private void ExitDelayed(){
 		if(this.gameObject.name=="Start"){
-			Application.LoadLevel("level1");
+			Application.LoadLevel("CharacterSelection");
 		}if(this.gameObject.name=="StartPhone"){
 			Application.LoadLevel("Phone_Example_Scene");
 		}
