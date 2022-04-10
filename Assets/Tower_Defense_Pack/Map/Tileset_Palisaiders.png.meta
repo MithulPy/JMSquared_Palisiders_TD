@@ -1,0 +1,2472 @@
+fileFormatVersion: 2
+guid: bb1da710a88c78f40bc8d599a484ab13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7734529099150138124
+    second: Tileset_Palisaiders_0
+  - first:
+      213: 5851743552844837698
+    second: Tileset_Palisaiders_1
+  - first:
+      213: 5776254818441755187
+    second: Tileset_Palisaiders_2
+  - first:
+      213: -8733380526397126564
+    second: Tileset_Palisaiders_3
+  - first:
+      213: 433054760759138919
+    second: Tileset_Palisaiders_4
+  - first:
+      213: 2166604111664276280
+    second: Tileset_Palisaiders_5
+  - first:
+      213: -1732949957020333113
+    second: Tileset_Palisaiders_6
+  - first:
+      213: 5755764007845277403
+    second: Tileset_Palisaiders_7
+  - first:
+      213: 4826034002203170030
+    second: Tileset_Palisaiders_8
+  - first:
+      213: -9176941754373478928
+    second: Tileset_Palisaiders_9
+  - first:
+      213: -2893836529526973542
+    second: Tileset_Palisaiders_10
+  - first:
+      213: -7042391196689042085
+    second: Tileset_Palisaiders_11
+  - first:
+      213: 6291129996958363725
+    second: Tileset_Palisaiders_12
+  - first:
+      213: 4847718838667449815
+    second: Tileset_Palisaiders_13
+  - first:
+      213: 8866822157047360699
+    second: Tileset_Palisaiders_14
+  - first:
+      213: 521381348160445882
+    second: Tileset_Palisaiders_15
+  - first:
+      213: 8239315919539194933
+    second: Tileset_Palisaiders_16
+  - first:
+      213: -3800717572255089114
+    second: Tileset_Palisaiders_17
+  - first:
+      213: 6124769645947109346
+    second: Tileset_Palisaiders_18
+  - first:
+      213: -5975123068803585567
+    second: Tileset_Palisaiders_19
+  - first:
+      213: -3138082118400803908
+    second: Tileset_Palisaiders_20
+  - first:
+      213: -7766984191411111872
+    second: Tileset_Palisaiders_21
+  - first:
+      213: 4537318659316238210
+    second: Tileset_Palisaiders_22
+  - first:
+      213: -3648116921531217855
+    second: Tileset_Palisaiders_23
+  - first:
+      213: 2676486941456673413
+    second: Tileset_Palisaiders_24
+  - first:
+      213: 3294822053460975459
+    second: Tileset_Palisaiders_25
+  - first:
+      213: 3479708470492087319
+    second: Tileset_Palisaiders_26
+  - first:
+      213: -7613600607318664243
+    second: Tileset_Palisaiders_27
+  - first:
+      213: 226434599205570400
+    second: Tileset_Palisaiders_28
+  - first:
+      213: -1439592737058937719
+    second: Tileset_Palisaiders_29
+  - first:
+      213: -8314917365675026879
+    second: Tileset_Palisaiders_30
+  - first:
+      213: 8814215605710854120
+    second: Tileset_Palisaiders_31
+  - first:
+      213: 5097456667162972660
+    second: Tileset_Palisaiders_32
+  - first:
+      213: 2415715019823504186
+    second: Tileset_Palisaiders_33
+  - first:
+      213: 2583147885760868022
+    second: Tileset_Palisaiders_34
+  - first:
+      213: -7782268991342734318
+    second: Tileset_Palisaiders_35
+  - first:
+      213: -7101114080275518911
+    second: Tileset_Palisaiders_36
+  - first:
+      213: 2114347474721372022
+    second: Tileset_Palisaiders_37
+  - first:
+      213: 7531313212975698703
+    second: Tileset_Palisaiders_38
+  - first:
+      213: -6278465035077175212
+    second: Tileset_Palisaiders_39
+  - first:
+      213: -5483343120223174645
+    second: Tileset_Palisaiders_40
+  - first:
+      213: 1294938528467500558
+    second: Tileset_Palisaiders_41
+  - first:
+      213: 9111565224137182929
+    second: Tileset_Palisaiders_42
+  - first:
+      213: 8758761760966693382
+    second: Tileset_Palisaiders_43
+  - first:
+      213: 1387670951506952258
+    second: Tileset_Palisaiders_44
+  - first:
+      213: 3267261396349099102
+    second: Tileset_Palisaiders_45
+  - first:
+      213: 4468203003083170083
+    second: Tileset_Palisaiders_46
+  - first:
+      213: 354712940996742351
+    second: Tileset_Palisaiders_47
+  - first:
+      213: -7509756518550638179
+    second: Tileset_Palisaiders_48
+  - first:
+      213: -6461961631110963732
+    second: Tileset_Palisaiders_49
+  - first:
+      213: 8222886528016759004
+    second: Tileset_Palisaiders_50
+  - first:
+      213: -309332156266283611
+    second: Tileset_Palisaiders_51
+  - first:
+      213: 3624153227882688208
+    second: Tileset_Palisaiders_52
+  - first:
+      213: -3324612163172741212
+    second: Tileset_Palisaiders_53
+  - first:
+      213: 7339296878454528232
+    second: Tileset_Palisaiders_54
+  - first:
+      213: 2980708189903513741
+    second: Tileset_Palisaiders_55
+  - first:
+      213: -8178701969303458502
+    second: Tileset_Palisaiders_56
+  - first:
+      213: -6739421267957682118
+    second: Tileset_Palisaiders_57
+  - first:
+      213: 5395042643672580018
+    second: Tileset_Palisaiders_58
+  - first:
+      213: 3738739657415214009
+    second: Tileset_Palisaiders_59
+  - first:
+      213: -3741682479363079749
+    second: Tileset_Palisaiders_60
+  - first:
+      213: 496873729778904645
+    second: Tileset_Palisaiders_61
+  - first:
+      213: 1122891831061976527
+    second: Tileset_Palisaiders_62
+  - first:
+      213: 4436070489097635849
+    second: Tileset_Palisaiders_63
+  - first:
+      213: 2278845182697303524
+    second: Tileset_Palisaiders_64
+  - first:
+      213: 6366184465121818482
+    second: Tileset_Palisaiders_65
+  - first:
+      213: -8067802786994017043
+    second: Tileset_Palisaiders_66
+  - first:
+      213: 6662338801842171099
+    second: Tileset_Palisaiders_67
+  - first:
+      213: -1718183273795385768
+    second: Tileset_Palisaiders_68
+  - first:
+      213: -5825992529217036141
+    second: Tileset_Palisaiders_69
+  - first:
+      213: -8801005668048567717
+    second: Tileset_Palisaiders_70
+  - first:
+      213: 2958876211146340778
+    second: Tileset_Palisaiders_71
+  - first:
+      213: -8844737338305877940
+    second: Tileset_Palisaiders_72
+  - first:
+      213: 5996954941178797063
+    second: Tileset_Palisaiders_73
+  - first:
+      213: 3560446876535680364
+    second: Tileset_Palisaiders_74
+  - first:
+      213: -8094018544934448175
+    second: Tileset_Palisaiders_75
+  - first:
+      213: 8534638712205622117
+    second: Tileset_Palisaiders_76
+  - first:
+      213: 4614912457533116488
+    second: Tileset_Palisaiders_77
+  - first:
+      213: -3500408624665744154
+    second: Tileset_Palisaiders_78
+  - first:
+      213: -1713431049183588980
+    second: Tileset_Palisaiders_79
+  - first:
+      213: -3714246755226456533
+    second: Tileset_Palisaiders_80
+  - first:
+      213: -2985729439204049715
+    second: Tileset_Palisaiders_81
+  - first:
+      213: 8464161938245740375
+    second: Tileset_Palisaiders_82
+  - first:
+      213: 6028896528213658880
+    second: Tileset_Palisaiders_83
+  - first:
+      213: 80957408068669153
+    second: Tileset_Palisaiders_84
+  - first:
+      213: 466377870060633304
+    second: Tileset_Palisaiders_85
+  - first:
+      213: 2990043003785021843
+    second: Tileset_Palisaiders_86
+  - first:
+      213: -4827734517191925092
+    second: Tileset_Palisaiders_87
+  - first:
+      213: 2575442404633114469
+    second: Tileset_Palisaiders_88
+  - first:
+      213: -2223991002396336469
+    second: Tileset_Palisaiders_89
+  - first:
+      213: 2182392900439587078
+    second: Tileset_Palisaiders_90
+  - first:
+      213: -2279564262321862393
+    second: Tileset_Palisaiders_91
+  - first:
+      213: -7543822274320742130
+    second: Tileset_Palisaiders_92
+  - first:
+      213: -6023041466224104762
+    second: Tileset_Palisaiders_93
+  - first:
+      213: 6874962770989580330
+    second: Tileset_Palisaiders_94
+  - first:
+      213: -1391212057696951627
+    second: Tileset_Palisaiders_95
+  - first:
+      213: -3987772009193600003
+    second: Tileset_Palisaiders_96
+  - first:
+      213: 6147182498990968684
+    second: Tileset_Palisaiders_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 760
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b14c38c31965b60800000000000000
+      internalID: 7734529099150138124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 760
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243bff7e1c1953150800000000000000
+      internalID: 5851743552844837698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 760
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33afb594721692050800000000000000
+      internalID: 5776254818441755187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 760
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5809c3ceacccc680800000000000000
+      internalID: -8733380526397126564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 760
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a175fa205820600800000000000000
+      internalID: 433054760759138919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_5
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 760
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83366acd5f2511e10800000000000000
+      internalID: 2166604111664276280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 760
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4646123353f7e0800000000000000
+      internalID: -1732949957020333113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_7
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 760
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdea89aaed490ef40800000000000000
+      internalID: 5755764007845277403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 760
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d6470b5489f240800000000000000
+      internalID: 4826034002203170030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_9
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 839
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f56e1e8814f4a080800000000000000
+      internalID: -9176941754373478928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_10
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 840
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bde73320707d7d0800000000000000
+      internalID: -2893836529526973542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 648
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f200d486644e90800000000000000
+      internalID: -7042391196689042085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 648
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40f18086659e4750800000000000000
+      internalID: 6291129996958363725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 648
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d51eb5799e864340800000000000000
+      internalID: 4847718838667449815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 648
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcee5df5c74d0b70800000000000000
+      internalID: 8866822157047360699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_15
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 648
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd1e91e2915c3700800000000000000
+      internalID: 521381348160445882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_16
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 648
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cca50dc2ee75270800000000000000
+      internalID: 8239315919539194933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 648
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e762e4183214bc0800000000000000
+      internalID: -3800717572255089114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 648
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb5c5ea8d8ff450800000000000000
+      internalID: 6124769645947109346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_19
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 648
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e968baf939141da0800000000000000
+      internalID: -5975123068803585567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_20
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 744
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbf6b880fa4374d0800000000000000
+      internalID: -3138082118400803908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_21
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 747
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bdd67701263490800000000000000
+      internalID: -7766984191411111872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 656
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287cb49e74bc7fe30800000000000000
+      internalID: 4537318659316238210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_23
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 663
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484a090df84f5dc0800000000000000
+      internalID: -3648116921531217855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 537
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a2f7f41bac42520800000000000000
+      internalID: 2676486941456673413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 536
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f1aae633f89bd20800000000000000
+      internalID: 3294822053460975459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 536
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7144999ea686a4030800000000000000
+      internalID: 3479708470492087319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 539
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9213169e075690800000000000000
+      internalID: -7613600607318664243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 536
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067818a7115742300800000000000000
+      internalID: 226434599205570400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 539
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ae5e680a850ce0800000000000000
+      internalID: -1439592737058937719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_30
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 537
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1469632d5ba7b9c80800000000000000
+      internalID: -8314917365675026879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 536
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e79918c462625a70800000000000000
+      internalID: 8814215605710854120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_32
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 536
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11230d4ddcdb640800000000000000
+      internalID: 5097456667162972660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_33
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 570
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd723f208568120800000000000000
+      internalID: 2415715019823504186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_34
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 572
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee315e05f29d320800000000000000
+      internalID: 2583147885760868022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 427
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2149a78a593dff390800000000000000
+      internalID: -7782268991342734318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 425
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a27a70e56c37d90800000000000000
+      internalID: -7101114080275518911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 425
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677f28273dba75d10800000000000000
+      internalID: 2114347474721372022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 425
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035f9fe679948860800000000000000
+      internalID: 7531313212975698703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_39
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 423
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b389b0596ed8a0800000000000000
+      internalID: -6278465035077175212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 429
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b000481fb7047e3b0800000000000000
+      internalID: -5483343120223174645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_41
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 425
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eb5431bbb88f110800000000000000
+      internalID: 1294938528467500558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_42
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 428
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1decf74db48c27e70800000000000000
+      internalID: 9111565224137182929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 429
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602d1ba6a6f5d8970800000000000000
+      internalID: 8758761760966693382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_44
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 468
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24043b1d06ff14310800000000000000
+      internalID: 1387670951506952258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_45
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 303
+        width: 149
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1cb5ede4a75d20800000000000000
+      internalID: 3267261396349099102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_46
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 468
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3212b1f25fe320e30800000000000000
+      internalID: 4468203003083170083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 318
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc485d5a813ce400800000000000000
+      internalID: 354712940996742351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 318
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d917d1a1c3cf7c790800000000000000
+      internalID: -7509756518550638179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 318
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced5d6922208256a0800000000000000
+      internalID: -6461961631110963732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_50
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 318
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b8c20bbf8d1270800000000000000
+      internalID: 8222886528016759004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 319
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7424fa0805bbf0800000000000000
+      internalID: -309332156266283611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_52
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 318
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de688fb8249b4230800000000000000
+      internalID: 3624153227882688208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 318
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af45262ada9cd1d0800000000000000
+      internalID: -3324612163172741212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 318
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e85a6d20ab6ad560800000000000000
+      internalID: 7339296878454528232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_55
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 318
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88eb466e4a9d5920800000000000000
+      internalID: 2980708189903513741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 208
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d21eb34e96f7e80800000000000000
+      internalID: -8178701969303458502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 308
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a307ba35014c872a0800000000000000
+      internalID: -6739421267957682118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 208
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf303443ba0fda40800000000000000
+      internalID: 5395042643672580018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b346e3e8eba2e330800000000000000
+      internalID: 3738739657415214009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 208
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1c24bfb9fd21cc0800000000000000
+      internalID: -3741682479363079749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 208
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee1b1560045e600800000000000000
+      internalID: 496873729778904645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_62
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 208
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc513a7cb20559f00800000000000000
+      internalID: 1122891831061976527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90802454b96109d30800000000000000
+      internalID: 4436070489097635849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_64
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 208
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed68ccae9510af10800000000000000
+      internalID: 2278845182697303524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_65
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 307
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2773232aa0b395850800000000000000
+      internalID: 6366184465121818482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_66
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 208
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca05b3c18690090800000000000000
+      internalID: -8067802786994017043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 96
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcaa1977d1657c50800000000000000
+      internalID: 6662338801842171099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 96
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85688627a69c728e0800000000000000
+      internalID: -1718183273795385768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_69
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39060ff79aae52fa0800000000000000
+      internalID: -5825992529217036141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_70
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 192
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5204c189fb8cd580800000000000000
+      internalID: -8801005668048567717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_71
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 192
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa93bbbbc3a001920800000000000000
+      internalID: 2958876211146340778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_72
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 192
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e4a2904e214580800000000000000
+      internalID: -8844737338305877940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_73
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 191
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5cfaeeb6793350800000000000000
+      internalID: 5996954941178797063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_74
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 190
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dee85f19f396130800000000000000
+      internalID: 3560446876535680364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_75
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 132
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d312cf64054caf80800000000000000
+      internalID: -8094018544934448175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 153
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b3057b0b0217670800000000000000
+      internalID: 8534638712205622117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_77
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 132
+        width: 94
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84059c4ed667b0040800000000000000
+      internalID: 4614912457533116488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_78
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 140
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca51ed6ec0c6fc0800000000000000
+      internalID: -3500408624665744154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 129
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d8946f98ba838e0800000000000000
+      internalID: -1713431049183588980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_80
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 128
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e649a4148547cc0800000000000000
+      internalID: -3714246755226456533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_81
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 80
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf0d4e4ee8096d0800000000000000
+      internalID: -2985729439204049715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_82
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 104
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e482107eb67570800000000000000
+      internalID: 8464161938245740375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_83
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 103
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dc2cf2371faa350800000000000000
+      internalID: 6028896528213658880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_84
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 82
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee8edd655e9f1100800000000000000
+      internalID: 80957408068669153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_85
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 80
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc311ca338e87600800000000000000
+      internalID: 466377870060633304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_86
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 78
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3998fbf1544ce7920800000000000000
+      internalID: 2990043003785021843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_87
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 77
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9222e8f801700db0800000000000000
+      internalID: -4827734517191925092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_88
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 77
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56772a3c83fcdb320800000000000000
+      internalID: 2575442404633114469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_89
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 51
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae508e67fbc221e0800000000000000
+      internalID: -2223991002396336469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_90
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 52
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093907b7ca694e10800000000000000
+      internalID: 2182392900439587078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_91
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 52
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70941ad816c5d50e0800000000000000
+      internalID: -2279564262321862393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_92
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 48
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ce624c95fe4790800000000000000
+      internalID: -7543822274320742130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_93
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 48
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa34aa2bbd96ca0800000000000000
+      internalID: -6023041466224104762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_94
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 48
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a208ed01736c86f50800000000000000
+      internalID: 6874962770989580330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_95
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 48
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2abb5210c61bce0800000000000000
+      internalID: -1391212057696951627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_96
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 48
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb05ca5c7698a8c0800000000000000
+      internalID: -3987772009193600003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Palisaiders_97
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 49
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fcad5e9ed2f4550800000000000000
+      internalID: 6147182498990968684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 56b81c1f216066848a0518c950062a54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

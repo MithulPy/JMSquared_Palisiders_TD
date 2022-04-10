@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tower_Defense_Pack/Scenes/HowToPlay.unity
     guid: 8226b8b518686a646a7f7ca33c521992
-  - enabled: 0
+  - enabled: 1
     path: Assets/Tower_Defense_Pack/Scenes/Settings.unity
     guid: 0f6bd7b9b46575f4d998499199c13982
   - enabled: 1

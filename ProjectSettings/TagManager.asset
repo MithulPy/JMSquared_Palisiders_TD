@@ -6,6 +6,7 @@ TagManager:
   tags:
   - map
   - New tag
+  - enemies
   layers:
   - Default
   - TransparentFX
@@ -13,8 +14,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - BelowFirst
+  - AboveFirst
   - enemies
   - tower
   - map

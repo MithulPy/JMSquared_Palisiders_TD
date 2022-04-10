@@ -88,6 +88,7 @@ public class Master_Instance : MonoBehaviour {
 	public void createWave(int enemiesNumber, int enemytype){
 		wavePlaying=true;
 		waveCount=enemiesNumber;
+		
 	}
     /// <summary>
     /// It is used by Waves_Creator_Controller.cs (attached to Instace_Point gameobject)
